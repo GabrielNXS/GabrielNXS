@@ -29,3 +29,5 @@
     <li>Curso - JavaScript e TypeScript do Básico ao Avançado...</li>
   </ul>
   
+  ![Snake animation](https://github.com/GabrielNXS/GabrielNXS/blob/output/github-contribution-grid-snake.svg)
+  
