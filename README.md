@@ -17,14 +17,15 @@
   <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;">
 </div>
-  <h2> I'm currently working on: </h2>
+  <h2>💻 I'm currently working on: </h2>
   <ul>
-    <li>Minhas habilidades em JavaScrip, React e NextJS<li>
+    <li>Minhas habilidades em JavaScrip, React e NextJS</li>
     <li>Criação de um E-commerce</li>
   </ul>
-  <h2> I'm currently learning: </h2>
+  
+  <h2>💻 I'm currently learning: </h2>
   <ul>
-    <li>Curso - React Avançado - Crie aplicações com NextJS, GraphQL e Mais...<li>
-    <li>Curso - JavaScript e TypeScript do Básico ao Avançado...<li>
+    <li>Curso - React Avançado - Crie aplicações com NextJS, GraphQL e Mais...</li>
+    <li>Curso - JavaScript e TypeScript do Básico ao Avançado...</li>
   </ul>
   
