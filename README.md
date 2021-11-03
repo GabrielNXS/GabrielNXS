@@ -17,6 +17,7 @@
   <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="max-width: 100%;">
 </div>
+  <div>
   <h2>💻 I'm currently working on: </h2>
   <ul>
     <li>Minhas habilidades em JavaScrip, React e NextJS</li>
@@ -28,6 +29,9 @@
     <li>Curso - React Avançado - Crie aplicações com NextJS, GraphQL e Mais...</li>
     <li>Curso - JavaScript e TypeScript do Básico ao Avançado...</li>
   </ul>
+  </div>
   
+
   ![Snake animation](https://github.com/GabrielNXS/GabrielNXS/blob/output/github-contribution-grid-snake.svg)
+  
   
