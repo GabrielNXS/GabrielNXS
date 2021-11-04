@@ -29,7 +29,7 @@
     
   <h2>💻 I'm currently working on: </h2>
   <ul>
-    <li>Minhas habilidades em JavaScrip, React e NextJS</li>
+    <li>Minhas habilidades em JavaScript, React e NextJS</li>
     <li>Criação de um E-commerce</li>
   </ul>
   
